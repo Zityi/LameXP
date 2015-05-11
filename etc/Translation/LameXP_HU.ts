@@ -759,22 +759,22 @@
     <message>
         <location filename="../../src/Model_FileExts.cpp" line="140"/>
         <source>File Extension</source>
-        <translation type="unfinished"></translation>
+        <translation type="Fájlkiterjesztés"></translation>
     </message>
     <message>
         <location filename="../../src/Model_FileExts.cpp" line="142"/>
         <source>Repalce With</source>
-        <translation type="unfinished"></translation>
+        <translation type="Csere erre:"></translation>
     </message>
     <message>
         <location filename="../../src/Model_FileExts.cpp" line="189"/>
         <source>Select file extensions to overwrite:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Válassza ki a felülírandó fájlkiterjesztéseket:"></translation>
     </message>
     <message>
         <location filename="../../src/Model_FileExts.cpp" line="208"/>
         <source>Enter the new file extension:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Adja meg az új fájlkiterjesztést:"></translation>
     </message>
 </context>
 <context>
@@ -1496,57 +1496,57 @@
     <message>
         <location filename="../../gui/MainWindow.ui" line="3776"/>
         <source>Replacement:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Csere:"></translation>
     </message>
     <message>
         <location filename="../../gui/MainWindow.ui" line="3789"/>
         <source>Search Pattern:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Keresési minta:"></translation>
     </message>
     <message>
         <location filename="../../gui/MainWindow.ui" line="3818"/>
         <source>&lt;a href=&quot;regexp&quot;&gt;Regular Expression Info&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="&lt;a href=&quot;regexp&quot;&gt;Reguláris kifejezés info&lt;/a&gt;"></translation>
     </message>
     <message>
         <location filename="../../gui/MainWindow.ui" line="3844"/>
         <source>Replace all Matching Elements</source>
-        <translation type="unfinished"></translation>
+        <translation type="Az összes egyező elem cseréje"></translation>
     </message>
     <message>
         <location filename="../../gui/MainWindow.ui" line="3894"/>
         <source>Enter the desired search pattern (regular expression) here!</source>
-        <translation type="unfinished"></translation>
+        <translation type="Adja meg a kívánt keresési mintát (reguláris kifejezés) itt!"></translation>
     </message>
     <message>
         <location filename="../../gui/MainWindow.ui" line="3941"/>
         <source>Enter replacement text here! It may contain backreferences.</source>
-        <translation type="unfinished"></translation>
+        <translation type="Adja meg a helyettesítő szöveget itt! Ez visszahivatkozásokat tartalmazhat."></translation>
     </message>
     <message>
         <location filename="../../gui/MainWindow.ui" line="3992"/>
         <source>Add Overwrite </source>
-        <translation type="unfinished"></translation>
+        <translation type="Felülírás hozzáadása"></translation>
     </message>
     <message>
         <location filename="../../gui/MainWindow.ui" line="4003"/>
         <source>Remove Overwrite </source>
-        <translation type="unfinished"></translation>
+        <translation type="Felülírás eltávolítása"></translation>
     </message>
     <message>
         <location filename="../../gui/MainWindow.ui" line="4040"/>
         <source>Rename Files </source>
-        <translation type="unfinished"></translation>
+        <translation type="Fájlok átnevezése"></translation>
     </message>
     <message>
         <location filename="../../gui/MainWindow.ui" line="4057"/>
         <source>Regular Expressions </source>
-        <translation type="unfinished"></translation>
+        <translation type="Reguláris kifejezések"></translation>
     </message>
     <message>
         <location filename="../../gui/MainWindow.ui" line="4071"/>
         <source>File Extensions </source>
-        <translation type="unfinished"></translation>
+        <translation type="Fájlkiterjesztések"></translation>
     </message>
     <message>
         <location filename="../../gui/MainWindow.ui" line="4109"/>
@@ -2216,7 +2216,7 @@
         <translation>Fordítási fájlok</translation>
     </message>
     <message>
-        <location filename="../../src/Dialog_MainWindow.cpp" line="1987"/>
+     /translation   <location filename="../../src/Dialog_MainWindow.cpp" line="1987"/>
         <source>Do you really want to disable the update reminder?</source>
         <translation>Valóban letiltja a frissítés emlékeztetőt?</translation>
     </message>
@@ -3546,3 +3546,5 @@
     </message>
 </context>
 </TS>
+
+    
