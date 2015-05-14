@@ -759,7 +759,7 @@
     <message>
         <location filename="../../src/Model_FileExts.cpp" line="140"/>
         <source>File Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlkiterjesztés</translation>
     </message>
     <message>
         <location filename="../../src/Model_FileExts.cpp" line="142"/>
@@ -1503,7 +1503,7 @@
         <source>Search Pattern:</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
+    <mess/sourceage>
         <location filename="../../gui/MainWindow.ui" line="3818"/>
         <source>&lt;a href=&quot;regexp&quot;&gt;Regular Expression Info&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
