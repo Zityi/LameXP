@@ -694,7 +694,8 @@
     </message>
     <message>
         <location filename="../../src/Model_CueSheet.cpp" line="267"/>
-        <location filename="../../src/Model_CueSheet.cpp" line="275"/>
+        <location filename="../../src/Model_CueS
+    heet.cpp" line="275"/>
         <source>Unknown Artist</source>
         <translation>Ismeretlen előadó</translation>
     </message>
@@ -759,12 +760,12 @@
     <message>
         <location filename="../../src/Model_FileExts.cpp" line="140"/>
         <source>File Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlkiterjesztés</translation>
     </message>
     <message>
         <location filename="../../src/Model_FileExts.cpp" line="142"/>
         <source>Replace With</source>
-        <translation type="unfinished"></translation>
+        <translation>Csere erre:</translation>
     </message>
     <message>
         <location filename="../../src/Model_FileExts.cpp" line="189"/>
