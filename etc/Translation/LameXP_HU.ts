@@ -759,7 +759,7 @@
     <message>
         <location filename="../../src/Model_FileExts.cpp" line="140"/>
         <source>File Extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájlkiterjesztés</translation>
     </message>
     <message>
         <location filename="../../src/Model_FileExts.cpp" line="142"/>
